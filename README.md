@@ -4,6 +4,10 @@
 
 ---
 
+![Github Banner](./Github Banner.png)
+
+---
+
 ## 🚀 About Me: Building Scalable & Interactive Applications
 I am a dedicated **Full-Stack Web Developer** with a solid foundation in the **MERN** (MongoDB, Express, React, Node.js) stack. My goal is to build interactive, high-performance, and scalable applications.
 
