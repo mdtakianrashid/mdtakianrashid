@@ -2,8 +2,6 @@
 
 ### Full-Stack Developer | MERN Stack Specialist | BEng Robotics Student @ University of Plymouth
 
-![Profile Banner Image]([YOUR BANNER IMAGE URL HERE])
-
 ---
 
 ## 🚀 About Me: Building Scalable & Interactive Applications
