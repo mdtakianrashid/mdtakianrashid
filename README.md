@@ -1,6 +1,6 @@
-# Hi, I'm Tajrian Rashid 👋
+# Hi, I'm Takian Rashid 👋
 
-### Full-Stack Developer | MERN Stack Specialist | BEng Robotics Student @ University of Plymouth
+### Full-Stack Developer | MERN Stack Specialist | International A-Level Student @ Sylhet International School & College
 
 ---
 
@@ -17,9 +17,9 @@ My practical skills were honed through the **Programming Hero Complete Web Devel
 * **RESTful APIs & Backend Architecture**
 * **Authentication & Security** (Firebase, JWT)
 
-I bring a unique analytical perspective from my current studies in **BEng Robotics** at the **University of Plymouth, UK**. This background emphasizes **automation**, **problem-solving**, and **emerging technologies**, which translates directly into writing efficient and future-proof code.
+I bring a unique analytical perspective from my **Full-Stack Web Development** experience and my **STEM-focused International A-Level studies (Mathematics, Physics, Accounting)** at **Sylhet International School & College.** This emphasizes problem-solving, efficient coding, and practical application of emerging technologies.  
 
-I am actively seeking **Full-Stack Web Developer** roles where I can contribute my technical skills and passion for continuous learning.
+I am actively seeking **Full-Stack Web Developer** roles where I can contribute my technical skills, tutoring experience, and passion for continuous learning.
 
 ---
 
@@ -61,6 +61,6 @@ Showcasing proficiency in the entire development lifecycle, from robust backend 
 
 | Platform | Link/Contact |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/tajrianrashid](https://www.linkedin.com/in/md-tajrian-rashid-4b8093389/) |
-| **Email (Professional)** | tajrianrashid@gmail.com |
-| **Phone/WhatsApp (UK)** | +44 7517 215312 |
+| **LinkedIn** | [linkedin.com/in/mdtakianrashid](https://www.linkedin.com/in/mdtakianrashid/) |
+| **Email (Professional)** | takianrashid.dev@gmail.com |
+| **Phone/WhatsApp** | +880 1782-596957 |
