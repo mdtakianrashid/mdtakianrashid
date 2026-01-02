@@ -17,7 +17,7 @@ My practical skills were honed through the **Programming Hero Complete Web Devel
 * **RESTful APIs & Backend Architecture**
 * **Authentication & Security** (Firebase, JWT)
 
-I bring a unique analytical perspective from my **Full-Stack Web Development** experience and my **STEM-focused International A-Level studies (Mathematics, Physics, Accounting)** at **Sylhet International School & College.** This emphasizes problem-solving, efficient coding, and practical application of emerging technologies.  
+I bring a unique analytical perspective from my **Full-Stack Web Development** experience and my **STEM-focused International A-Level studies (Mathematics, Physics & Accounting)** at **Sylhet International School & College.** This emphasizes problem-solving, efficient coding, and practical application of emerging technologies.  
 
 I am actively seeking **Full-Stack Web Developer** roles where I can contribute my technical skills, tutoring experience, and passion for continuous learning.
 
