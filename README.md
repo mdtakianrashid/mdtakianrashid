@@ -42,6 +42,7 @@ Showcasing proficiency in the entire development lifecycle, from robust backend 
 * **Mastering Next.js:** Deep dive into Server-Side Rendering (SSR), Static Site Generation (SSG), and API Routes for optimal performance.
 * **Python Exploration:** Planning to integrate **Python** and frameworks like Django/Flask into my backend repertoire.
 * **Cloud Services:** Gaining experience with **AWS** or **Azure** for application deployment and scaling.
+* **Career Goal:** Aspiring **Software Engineer**, building full-stack, efficient, and scalable applications.
 
 ---
 
