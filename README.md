@@ -48,13 +48,11 @@ Showcasing proficiency in the entire development lifecycle, from robust backend 
 
 ## 📈 GitHub Activity & Contributions
 
-
-
 > *"My activity reflects consistent engagement with the development process, focusing on learning and project completion."*
 
 | Stats | Languages | Streak |
 | :---: | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdtajrianrashid&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtajrianrashid&layout=compact&theme=dark&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdtajrianrashid&theme=dark&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdtakianrashid&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtakianrashid&layout=compact&theme=dark&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=mdtakianrashid&theme=dark&hide_border=true) |
 
 ---
 
